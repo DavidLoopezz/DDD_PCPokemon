@@ -1,0 +1,11 @@
+[ {
+  "pokedexNumber" : "001",
+  "nombre" : "Pikachu",
+  "tipo" : "ELECTRICO",
+  "movimientoIds" : [ ]
+}, {
+  "pokedexNumber" : "004",
+  "nombre" : "Charmander",
+  "tipo" : "FUEGO",
+  "movimientoIds" : [ "FL3033" ]
+} ]

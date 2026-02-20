@@ -1,0 +1,11 @@
+[ {
+  "pokedexNumber" : "634",
+  "nombre" : "GARCHAMP",
+  "tipo" : "DRAGON",
+  "movimientoIds" : [ "EQ1000" ]
+}, {
+  "pokedexNumber" : "003",
+  "nombre" : "Charmander",
+  "tipo" : "FUEGO",
+  "movimientoIds" : [ ]
+} ]

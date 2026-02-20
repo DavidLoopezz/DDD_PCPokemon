@@ -1,0 +1,11 @@
+[ {
+  "id" : "65788344F",
+  "nombre" : "Ash Ketchum",
+  "region" : "KANTO",
+  "pokedexNumbers" : [ "025", "001" ]
+}, {
+  "id" : "12345678H",
+  "nombre" : "Kalombo",
+  "region" : "HOENN",
+  "pokedexNumbers" : [ "004", "007" ]
+} ]

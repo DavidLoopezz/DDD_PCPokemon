@@ -1,0 +1,5 @@
+[
+  {"pokedexNumber":"001","nombre":"Bulbasaur","tipo":"PLANTA","movimientoIds":["SL0982"]},
+  {"pokedexNumber":"004","nombre":"Charmander","tipo":"FUEGO","movimientoIds":["FL3033"]},
+  {"pokedexNumber":"025","nombre":"Pikachu","tipo":"ELECTRICO","movimientoIds":["TH1023"]}
+]

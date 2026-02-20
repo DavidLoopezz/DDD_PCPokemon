@@ -1,0 +1,21 @@
+[ {
+  "id" : "TH1023",
+  "nombre" : "Trueno",
+  "tipo" : "ELECTRICO",
+  "potencia" : 110
+}, {
+  "id" : "FL3033",
+  "nombre" : "Llamarada",
+  "tipo" : "FUEGO",
+  "potencia" : 120
+}, {
+  "id" : "SL0982",
+  "nombre" : "Hoja Afilada",
+  "tipo" : "PLANTA",
+  "potencia" : 90
+}, {
+  "id" : "MF0001",
+  "nombre" : "Patada",
+  "tipo" : "LUCHA",
+  "potencia" : 100
+} ]

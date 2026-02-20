@@ -1,0 +1,26 @@
+[ {
+  "id" : "TH1023",
+  "nombre" : "Trueno",
+  "tipo" : "ELECTRICO",
+  "potencia" : 110
+}, {
+  "id" : "FL3033",
+  "nombre" : "Llamarada",
+  "tipo" : "FUEGO",
+  "potencia" : 120
+}, {
+  "id" : "MF0001",
+  "nombre" : "Backflip",
+  "tipo" : "FANTASMA",
+  "potencia" : 0
+}, {
+  "id" : "HP1234",
+  "nombre" : "SEX TOY ON",
+  "tipo" : "FUEGO",
+  "potencia" : 60
+}, {
+  "id" : "DD4321",
+  "nombre" : "PRUEBA",
+  "tipo" : "NORMAL",
+  "potencia" : 100
+} ]
